@@ -1,0 +1,75 @@
+body{
+    background-color: #232323;
+    color: #000000;
+    text-align: center;
+    margin: 0;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    outline: none;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+button:hover{
+    background-color: steelblue;
+    color: #000000;
+}
+
+h1{
+    background-color: steelblue;
+    margin: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 10px 0;
+    transition: background-color 1s;
+    -webkit-transition: background-color 1s;
+    -moz-transition: background-color 1s;
+    -o-transition: background-color 1s;
+}
+
+h1 span{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.panel{
+    background-color: #ffffff;
+    color: #000000;
+    height: 25px;
+}
+
+.selected{
+    background-color: steelblue;
+    color: #000000;
+}
+
+.message{
+    width: 25%;
+    display: inline-block;
+}
+
+.square{
+    padding-bottom: 30%;
+    background-color: #214986;
+    margin: 1.66%;
+    width: 30%;
+    float: left;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 1s;
+
+}
+
+.container{
+    margin: 10px auto;
+    max-width: 640px;
+}
