@@ -6,8 +6,6 @@ Developing a color picker game project which been represented in "The Web Develo
 ---
 
 ## Upcoming Commits:
-* Documentation.
-* Optimization.
 * Styling Using SCSS.
 * Adding More Levels.
 * Adding CMYK Game Mode.

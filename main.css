@@ -1,3 +1,5 @@
+/* Elements */
+
 body{
     background-color: #232323;
     color: #000000;
@@ -41,6 +43,8 @@ h1 span{
     font-size: 150%;
 }
 
+/* Classes */
+
 .panel{
     background-color: #ffffff;
     color: #000000;
@@ -57,7 +61,7 @@ h1 span{
     display: inline-block;
 }
 
-.square{
+.circles{
     padding-bottom: 30%;
     background-color: #214986;
     margin: 1.66%;
@@ -66,7 +70,6 @@ h1 span{
     border-radius: 50%;
     cursor: pointer;
     transition: background-color 1s;
-
 }
 
 .container{
