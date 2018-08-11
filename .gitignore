@@ -1,0 +1,12 @@
+#ignore files and directories:
+
+#ignore map file of SCSS:
+*.map
+
+#ignore SCSS partials:
+
+*.scss 
+!main.scss
+
+#ignore caches for sass gem:
+.sass-cache/
